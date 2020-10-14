@@ -1,0 +1,21 @@
+# Shared
+*/node_modules
+*/.git
+*/.DS_Store
+*/.env.local
+*/.env.development.local
+*/.env.test.local
+*/.env.production.local
+*/.gitignore
+
+# Front End
+frontEnd/build
+frontEnd/npm-debug.log*
+frontEnd/yarn-debug.log*
+frontEnd/yarn-error.log*
+
+# Back End
+backEnd/.env
+
+# misc
+.DS_Store
